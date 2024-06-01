@@ -1,0 +1,8 @@
+pyproject.toml
+src/huttpy/__main__.py
+src/huttpy.egg-info/PKG-INFO
+src/huttpy.egg-info/SOURCES.txt
+src/huttpy.egg-info/dependency_links.txt
+src/huttpy.egg-info/entry_points.txt
+src/huttpy.egg-info/requires.txt
+src/huttpy.egg-info/top_level.txt

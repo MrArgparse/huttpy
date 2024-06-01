@@ -1,0 +1,2 @@
+[console_scripts]
+huttpy = huttpy.__main__:main
