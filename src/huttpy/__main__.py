@@ -6,7 +6,7 @@ from http.cookiejar import MozillaCookieJar
 from rich.logging import RichHandler
 from rich import print_json
 from urllib.parse import urlparse, urljoin
-from typing import cast, Optional, List
+from typing import Optional, List
 import argparse
 import json
 import logging
