@@ -32,6 +32,8 @@ classifiers = [
 dependencies = [
   "beautifulsoup4",
   "getuseragent",
+  "msgspec",
+  "platformdirs",
   "requests",
   "rich",
   "tomlkit",
